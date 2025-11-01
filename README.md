@@ -1,6 +1,7 @@
 # Implement a Sudoku Solver From Scratch
 ## NAME: Easwari M
 ## REG.NO:212223240033
+
 ## AIM:
 To implement a Sudoku solver using the backtracking algorithm to find the solution for the given Sudoku puzzle.
 
